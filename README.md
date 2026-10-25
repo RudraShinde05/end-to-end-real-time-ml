@@ -2,7 +2,6 @@
     <h1>Let's build an end-2-end real time ML system</h1>
     <h3><i>"If I have seen further it is by standing on the shoulders of <s>Giants</s> <a href="https://turboml.com/">TurboML</a>"</i></h3>
 <h4>― Isaac Newton</h4>
-<img src="./media/newton.png" width='250' />
 </div>
 
 ### Table of contents
@@ -285,9 +284,3 @@ or
 
 BOOM!
 
-## Wanna learn more Real World ML/MLOps?
-Subscribe for free to my newsletter to get notified when I publish new articles and courses:
-
-👉👉🏻👉🏼👉🏽👉🏾👉🏿 [Subscribe](https://paulabartabajo.substack.com/)
-
-👉👉🏻👉🏼👉🏽👉🏾👉🏿 [Courses](https://www.realworldml.net/courses)
