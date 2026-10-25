@@ -1,7 +1,5 @@
 <div align="center">
     <h1>Let's build an end-2-end real time ML system</h1>
-    <h3><i>"If I have seen further it is by standing on the shoulders of <s>Giants</s> <a href="https://turboml.com/">TurboML</a>"</i></h3>
-<h4>― Isaac Newton</h4>
 </div>
 
 ### Table of contents
